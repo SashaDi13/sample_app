@@ -9,6 +9,7 @@ gem 'bcrypt', '3.1.12'
 gem 'faker',  '1.4.2'
 gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
+gem 'mailcatcher'
 gem 'sass-rails', '~> 5.0'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
