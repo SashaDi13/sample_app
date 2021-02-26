@@ -14,7 +14,7 @@ gem 'net-ssh'
 gem 'will_paginate', '3.0.7'
 gem 'bootstrap-will_paginate', '0.0.10'
 gem 'mailcatcher'
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', '~> 5.0.2'
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
 # Use CoffeeScript for .coffee assets and views
@@ -56,8 +56,7 @@ group :development do
 end
 
 group :test do
-  #gem 'guard'
-  #gem 'guard-minitest',  '2.4.4'
+  #gem 'guard-minitest', '2.3.1'
   gem 'minitest-reporters', '1.0.5'
   gem 'mini_backtrace',  '0.1.3'
   
